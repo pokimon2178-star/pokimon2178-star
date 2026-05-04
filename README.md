@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет, я Pokimon2178! 👋
 
-<!--
-**pokimon2178-star/pokimon2178-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Разработчик
 
-Here are some ideas to get you started:
+- 🛠 Сейчас я работаю над Гибридным поисковым движоком на Go и AI
+- 📚 Активно изучаю **Go (Golang)** и архитектуру микросервисов
+- 💬 Спрашивайте меня о Go и Python
+- 📫 Как со мной связаться: pokimon2178@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек технологий:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### Немного о моих интересах:
+* 💻 Постоянно оптимизирую свой рабочий процесс.
+* 🏋️‍♂️ Считаю, что дисциплина в коде начинается с дисциплины в жизни — регулярно тренируюсь в зале.
+* ⚡️ Люблю писать чистый и эффективный код, который легко масштабировать.
